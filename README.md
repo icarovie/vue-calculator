@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### A Demo can ve visualized in
+https://icarovie.github.io/vue-calculator/
