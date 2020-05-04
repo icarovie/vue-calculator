@@ -1,6 +1,6 @@
 # Uma Calculadora feita em VueJS
 
-[!calculator](http://prntscr.com/sauzm4)
+![calculator](http://prntscr.com/sauzm4)
 
 ## Project setup
 
