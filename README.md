@@ -1,6 +1,10 @@
-# A VueJs Calculator
+# Uma Calculadora feita em VueJS
+
+[!calculator](http://prntscr.com/sauzm4)
 
 ## Project setup
+
+Após clonar o projeto, utilize
 ```
 npm install
 ```
@@ -10,18 +14,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### A Demo can ve visualized in
-https://icarovie.github.io/vue-calculator/
